@@ -1,13 +1,12 @@
 {
   "name": "diverse-metamask-hooks",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Easy to use react hooks for metamask functionality",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type": "module",
   "keywords": [
     "react",
     "hooks",
