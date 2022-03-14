@@ -14,7 +14,7 @@ https://www.npmjs.com/package/diverse-metamask-hooks
 $ npm install diverse-metamask-hooks --save-dev
 ````
 ````
-$ yarn -D diverse-metamask-hooks
+$ yarn add -D diverse-metamask-hooks
 ````
 
 <br/>
