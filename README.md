@@ -1,5 +1,10 @@
 ## Diverse Metamask Hooks 🔥
-Diverse-Metamask-Hooks 💯 , provides easy to use **metamask functionality**  react hooks for developers to use in their decentralized applications 🥰✨
+Diverse-Metamask-Hooks 💯 , provides easy to use **metamask functionality**  react hooks for developers to use in their decentralized applications 🥰✨✨
+
+##### Example Web 🥳
+https://metamask-examples.dsolutions.mn <br/>
+##### Npm Registery
+https://www.npmjs.com/package/diverse-metamask-hooks
 
 <br/>
 
