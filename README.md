@@ -11,10 +11,10 @@ https://www.npmjs.com/package/diverse-metamask-hooks
 ### Installation 🤩
 ---
 ````
-$ npm install diverse-metamask-hooks --save-dev
+npm install diverse-metamask-hooks --save-dev
 ````
 ````
-$ yarn add -D diverse-metamask-hooks
+yarn add -D diverse-metamask-hooks
 ````
 
 <br/>
@@ -22,7 +22,7 @@ $ yarn add -D diverse-metamask-hooks
 ### Import 👾
 ---
 ````
-  import { useHaveMetamask,useMetamaskConnect } from 'diverse-metamask-hooks';
+import { useHaveMetamask,useMetamaskConnect } from 'diverse-metamask-hooks';
 ````
 
 <br/>
@@ -32,12 +32,12 @@ $ yarn add -D diverse-metamask-hooks
 
 ##### useHaveMetamask
 ````
-  const [haveMetamask,checkBrowserHasMetamask] = useHaveMetamask();
+const [haveMetamask,checkBrowserHasMetamask] = useHaveMetamask();
 ````
 
 ##### useMetamaskConnect
 ````
-  const [accounts,connect] = useMetamaskConnect();
+const [accounts,connect] = useMetamaskConnect();
 ````
 
 <br/>
