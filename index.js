@@ -1,1 +1,7 @@
-export { default as useMetamaskConnect } from './hooks/useMetamaskConnect';
+import useHaveMetamask from './hooks/useHaveMetamask.js'
+import useMetamaskConnect from './hooks/useMetamaskConnect.js'
+
+export {
+  useHaveMetamask,
+  useMetamaskConnect
+}
